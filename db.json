@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Cesar Quintero",
+      "email": "quintero_093@hotmail.com",
+      "password": "123456",
+      "birthday": "2025-09-09",
+      "img_url": "https://avatar.iran.liara.run/public/boy?t=1757968608949",
+      "id": "131"
+    },
+    {
+      "id": "1311",
+      "name": "Leidy Lozano",
+      "email": "lozano@gmail.com",
+      "password": "7894561",
+      "birthday": "2025-09-02",
+      "img_url": "https://avatar.iran.liara.run/public/girl?t=1757968596917"
+    },
+    {
+      "id": "13111",
+      "name": "Richar Lozano",
+      "email": "lozano5@gmail.com",
+      "password": "1545136",
+      "birthday": "2025-09-02",
+      "img_url": "https://avatar.iran.liara.run/public/boy?t=1757994129408"
+    }
+  ]
+}
